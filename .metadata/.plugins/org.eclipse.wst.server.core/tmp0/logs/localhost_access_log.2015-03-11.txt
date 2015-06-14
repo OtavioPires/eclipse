@@ -1,0 +1,16 @@
+127.0.0.1 - - [11/Mar/2015:12:08:54 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:12:08:56 -0300] "GET /cc_web_01/ HTTP/1.1" 200 356
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:12:09:11 -0300] "GET /cc_web_01/ HTTP/1.1" 200 356
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:12:09:11 -0300] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:12:09:45 -0300] "GET /cc_web_01/inserir_contato.html HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:12:10:23 -0300] "GET /cc_web_01/inserirContato?nome=teste&celular=teste&endereco=teste&dataNascimento=teste HTTP/1.1" 500 1427
+127.0.0.1 - - [11/Mar/2015:14:07:43 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:14:07:44 -0300] "GET /cc_web_01/WEB-INF/classes/br/ufc/FabricaDeConexoes.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:14:07:51 -0300] "GET /cc_web_01 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:14:07:53 -0300] "GET /cc_web_01/inserir_contato.html HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:14:08:06 -0300] "GET /cc_web_01/inserirContato?nome=otavio&celular=otavio&endereco=otavio&dataNascimento=otavio HTTP/1.1" 500 1427
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:15:08:32 -0300] "GET /cc_web_01/inserir_contato.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:15:08:32 -0300] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [11/Mar/2015:15:21:08 -0300] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:15:21:09 -0300] "GET /aula_web_01_professor/ HTTP/1.1" 404 995
+0:0:0:0:0:0:0:1 - - [11/Mar/2015:15:21:17 -0300] "GET /aula_web_01 HTTP/1.1" 404 973

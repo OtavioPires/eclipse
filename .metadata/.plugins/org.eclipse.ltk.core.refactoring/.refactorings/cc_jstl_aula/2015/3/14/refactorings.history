@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;javax.servlet.jsp.jstl-1.2.1.jar&apos; to &apos;aula_mvc_cc/src/br.ufc.model&apos;&#x0D;&#x0A;- Original project: &apos;cc_jstl_aula&apos;&#x0D;&#x0A;- Destination element: &apos;aula_mvc_cc/src/br.ufc.model&apos;&#x0D;&#x0A;- Original element: &apos;javax.servlet.jsp.jstl-1.2.1.jar&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=aula_mvc_cc/src&lt;br.ufc.model" element1="WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1427800110861" units="0" version="1.0"/>
+</session>
